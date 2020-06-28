@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/rajeev/Workspace/rajeev/python-tutorial/venv/bin/python3.8",
+    "files.exclude": {
+        ".vscode": true,
+        "venv": true
+    }
+}
